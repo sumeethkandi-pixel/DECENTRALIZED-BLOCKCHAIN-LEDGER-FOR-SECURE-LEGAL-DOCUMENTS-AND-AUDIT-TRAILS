@@ -1,0 +1,20 @@
+requirments
+
+Node.js
+python 
+--python  pack---
+Django
+web3==5.6.0
+----steps---------
+1. open hello-eth -> open nodemodules->bin
+2. open build-> contract -> check the file and replace the original json file
+3. open contracts ->replace original sol file
+4. open migrations -> open deploy contract file and change "file name" as same name of the json /sol file name 
+5. find runblockchain and double tap the code start execute
+6. after execute type command migrate enter
+7. after copy  contract address 
+8. go to base folder and find views.py open and replace the contract with new 
+9. run Django server
+10. open link in the browser 
+11.The end....
+12. vangapadu hashtag---->>>>>
